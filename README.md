@@ -13,7 +13,7 @@ A clean, modern Text-to-Speech (TTS) desktop app for Windows. Convert text to na
 ## ✨ Features
 
 - **Text-to-Speech**: Type any English or Chinese text and generate speech instantly.
-- **Bilingual Support**: Works with both English and Simplified Chinese voices (requires system TTS voices installed).
+- **Bilingual Support**: Works with both English and Simplified Chinese voices.
 - **Light & Dark Themes**: Automatically follows your Windows system theme.
 - **Crisp Text Rendering**: Sharp, clear UI even on 4K displays.
 - **Save Audio Locally**: Export speech as `.wav` files to any folder on your PC.
